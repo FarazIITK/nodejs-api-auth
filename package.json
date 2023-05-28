@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/FarazIITK/nodejs-api-auth/issues"
   },
-  "homepage": "https://github.com/FarazIITK/nodejs-api-auth#readme"
+  "homepage": "https://github.com/FarazIITK/nodejs-api-auth#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
 }
